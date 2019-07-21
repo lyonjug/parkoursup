@@ -16,9 +16,16 @@ public class MainView extends VerticalLayout {
 	private final Grid<String> grid = new Grid<>();
 
 	private final List<String> list = Arrays.asList(
-			"Nicolaus Copernicus",
-			"Galileo Galilei",
-			"Johannes Kepler");
+			"@Jojo6375", "@Arcantos512", "@thofon", "@petitlaurent", "@indyHiTech",
+			"@jibe77", "@warn_Off", "@remi_mrn", "@noredine69", "@skarboune",
+			"@gVibrac", "@NoemiePham", "@Rodac84", "@FrancisCharpin", "@blskdan",
+			"@ccheneson", "@Bilgetz1", "@sadraskol", "@thebignet", "@DavidCharlet",
+			"@TimAufort", "@fabgrenier", "@toufik0117", "@guyon_jerome", "@romain_dequidt",
+			"@eDenayrolles", "@nafresne", "@AnnKalamity", "@dogiaf", "@joanna_lacante",
+			"@renarnaud", "@AurelienMino", "@adrienpessu", "@grenneville", "@TheBrousse",
+			"@mackristof", "@Puppet_2501", "@sanlaville", "@mekquispass", "@maxime_vialette",
+			"@GalletVictor", "@RiverJach", "@TFranconville", "@BonnefondVero", "@titimoby",
+			"@cedric__chateau", "@k33g_org");
 
 	public MainView() {
 		var button = new Button("Tirer au sort");
