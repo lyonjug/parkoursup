@@ -15,14 +15,10 @@ import java.util.Random;
 public class MainView extends VerticalLayout {
 
     private final List<String> list = Arrays.asList(
-            "@warn_Off", "@magneval", "@clpetot", "@t_marmillot", "@Kheon669",
-            "@AymaneHafiane", "@glgaws", "@OlivierPerez", "@jokeur76", "@esfe17",
-            "@thierryparet", "@thebignet", "@imNollo", "@maxime_vialette", "@guilldavid",
-            "@luc_chevallier", "@BucheNicolas", "@plugandtweet", "@MriniYacine", "@SamadouSare",
-            "@tttataww", "@coralie_noy", "@cedric__chateau", "@fnicollet", "@GuiF007",
-            "@foxoyote", "@noredine69", "@blskdan", "@Bilgetz1", "@GalletVictor",
-            "@fred532", "@maillotm", "@Jojo6375", "@LittleFr0g", "@arisoft31",
-            "@petitlaurent");
+            "@foxoyote", "@SebDirollo", "@Jojo6375", "@michaelbertoni_", "@OlivierPerez",
+            "@particulitis", "@zugzwang2011", "@misterjp", "@arisoft31", "@glgaws",
+            "@Vigeoleader", "@maillotm", "@noredine69", "@borgan_karl", "Mossroy",
+            "Ianic Almeida");
 
     public MainView() {
         setHeightFull();
