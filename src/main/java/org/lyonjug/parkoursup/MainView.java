@@ -15,10 +15,7 @@ import java.util.Random;
 public class MainView extends VerticalLayout {
 
     private final List<String> list = Arrays.asList(
-            "Albaku", "Daniel B", "DupontC", "FluOr_", "Frédéric Le Mouël (FLM)",
-            "Gaël LARGER", "Géraud", "Jojo6375", "jponge", "jz5",
-            "lpetit", "Martial Maillot", "Mossroy", "nbuche", "Nolwenn",
-            "Olivier", "testdffgfdgfgrejyth", "Théo C.", "vga", "Yarck");
+            "José SOUSA", "Arthur NOSEDA", "Karam FINDAKLY", "Clément FRADE", "Boris MARAS", "Benjamin DAUVISSAT");
 
     public MainView() {
         setHeightFull();
